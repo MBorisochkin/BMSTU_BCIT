@@ -1,0 +1,7 @@
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Borisochkin Lab3\Borisochkin Lab3\bin\Debug\Borisochkin Lab3.exe.config
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Borisochkin Lab3\Borisochkin Lab3\bin\Debug\Borisochkin Lab3.exe
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Borisochkin Lab3\Borisochkin Lab3\bin\Debug\Borisochkin Lab3.pdb
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Borisochkin Lab3\Borisochkin Lab3\obj\Debug\Borisochkin Lab3.csprojAssemblyReference.cache
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Borisochkin Lab3\Borisochkin Lab3\obj\Debug\Borisochkin Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Borisochkin Lab3\Borisochkin Lab3\obj\Debug\Borisochkin Lab3.exe
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Borisochkin Lab3\Borisochkin Lab3\obj\Debug\Borisochkin Lab3.pdb
