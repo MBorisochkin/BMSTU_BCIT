@@ -1,0 +1,6 @@
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab5\ClassLibraryLab5\bin\Debug\ClassLibraryLab5.dll
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab5\ClassLibraryLab5\bin\Debug\ClassLibraryLab5.pdb
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab5\ClassLibraryLab5\obj\Debug\ClassLibraryLab5.csprojAssemblyReference.cache
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab5\ClassLibraryLab5\obj\Debug\ClassLibraryLab5.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab5\ClassLibraryLab5\obj\Debug\ClassLibraryLab5.dll
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab5\ClassLibraryLab5\obj\Debug\ClassLibraryLab5.pdb

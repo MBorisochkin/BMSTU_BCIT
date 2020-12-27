@@ -1,0 +1,7 @@
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab6\Lab6Delegates\bin\Debug\Lab6Delegates.exe.config
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab6\Lab6Delegates\bin\Debug\Lab6Delegates.exe
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab6\Lab6Delegates\bin\Debug\Lab6Delegates.pdb
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab6\Lab6Delegates\obj\Debug\Lab6Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab6\Lab6Delegates\obj\Debug\Lab6Delegates.exe
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab6\Lab6Delegates\obj\Debug\Lab6Delegates.pdb
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab6\Lab6Delegates\obj\Debug\Lab6Delegates.csprojAssemblyReference.cache

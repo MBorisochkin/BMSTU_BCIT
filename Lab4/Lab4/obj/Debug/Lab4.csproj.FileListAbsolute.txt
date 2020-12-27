@@ -1,0 +1,10 @@
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab4\Lab4\obj\Debug\Lab4.Lab4.resources
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab4\Lab4\obj\Debug\Lab4.pdb

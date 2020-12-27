@@ -1,0 +1,7 @@
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab6\Lab6Reflection\bin\Debug\Lab6Reflection.exe.config
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab6\Lab6Reflection\bin\Debug\Lab6Reflection.exe
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab6\Lab6Reflection\bin\Debug\Lab6Reflection.pdb
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab6\Lab6Reflection\obj\Debug\Lab6Reflection.csprojAssemblyReference.cache
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab6\Lab6Reflection\obj\Debug\Lab6Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab6\Lab6Reflection\obj\Debug\Lab6Reflection.exe
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab6\Lab6Reflection\obj\Debug\Lab6Reflection.pdb

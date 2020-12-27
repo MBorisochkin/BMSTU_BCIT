@@ -1,0 +1,13 @@
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab5\Lab5\bin\Debug\ClassLibraryLab5.dll
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab5\Lab5\bin\Debug\ClassLibraryLab5.pdb
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab5\Lab5\obj\Debug\Lab5.Lab5.resources
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab5\Lab5\obj\Debug\Lab5.csproj.CopyComplete
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\Михаил\Documents\Visual Studio 2017\Projects\C#\Lab5\Lab5\obj\Debug\Lab5.pdb
